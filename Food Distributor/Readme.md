@@ -7,3 +7,5 @@ Based on the data provided I structured my analysis on three main factors, being
 - Market Size
 - Geography
 - Spend (Revenue)
+
+The case study provide context for the presentaion.
